@@ -5,3 +5,4 @@ class Pelicula:
         self.genero=genero
         self.duracion=duracion
         self.popularidad=popularidad
+#coment
