@@ -1,6 +1,6 @@
 import Peliculas
 import Series
-
+#mira este cambio
 
 class Contenido:
     #prodriamos instanciar contenido en Plataforma en un metodo
