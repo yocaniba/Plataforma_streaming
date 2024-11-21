@@ -4,7 +4,7 @@ import Peliculas
 import Series
 import Contenido
 
-
+#ASKLÑDJASLÑD
 
     #METODOS 
 def crear_usuario(usuario):
