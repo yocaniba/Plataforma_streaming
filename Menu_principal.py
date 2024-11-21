@@ -5,7 +5,7 @@ import Series
 import Contenido
 
 #ASKLÑDJASLÑD
-
+#comentario2
     #METODOS 
 def crear_usuario(usuario):
     plataforma_general.lista_usuarios.append(usuario)
