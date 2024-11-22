@@ -18,3 +18,5 @@ class Usuario:
 # SORETE EEEEEEEEEEEEEEEEEEE
 # hola ?
 #aca
+#a ver que onda
+#en ruben brunxh
