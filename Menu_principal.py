@@ -58,7 +58,7 @@ def validarUsuario():
             print ("Opción invalida.")
 
 
-
+#COLOCANDO UN CAMBIO
 
 def menu_principal(validacion):
     #MOSTRAMOS UN MENU CON TODAS LAS OPCIONES DE BUSQUEDA
