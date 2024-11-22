@@ -2,6 +2,12 @@ import Peliculas
 import Series
 #mira este cambio
 
+
+
+# ---------------------------------------------------------------- HOLA
+
+
+
 class Contenido:
     #prodriamos instanciar contenido en Plataforma en un metodo
     def __init__(self):

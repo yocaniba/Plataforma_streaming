@@ -7,5 +7,5 @@ class Serie:
         self.episodios=episodios
 
 
-asd
+
 
