@@ -5,4 +5,7 @@ class Serie:
         self.genero=genero
         self.popularidad=popularidad
         self.episodios=episodios
-        
+
+
+asd
+
