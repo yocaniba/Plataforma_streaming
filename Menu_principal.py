@@ -51,8 +51,8 @@ def validarUsuario():
 
         elif opcion == 2:
            
+           break
             
-
         else:
 
             print ("Opción invalida.")
