@@ -4,11 +4,7 @@ import Peliculas
 import Series
 import Contenido
 
-#ASKLÑDJASLÑD
-#comentario2
-
-#comentario3
-    #METODOS 
+#METODOS 
 def crear_usuario(usuario):
     plataforma_general.lista_usuarios.append(usuario)
     
