@@ -11,3 +11,4 @@ class Plataforma:
         self.contenido = []
         self.lista_usuarios = [] #lista de listas (datos del usuario)
         self.maspopulares = []
+        # aca borramos la lista de la mas populares las manejo desde el arbole es mas practico
