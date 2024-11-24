@@ -87,7 +87,7 @@ def menu_principal(validacion):
 
         elif seleccion == 3:
 
-            pelispref()
+            #en esta opcion voy a poner la funcion para traer el conmtenido mas popular
 
         elif seleccion == 4:
 
