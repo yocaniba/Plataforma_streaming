@@ -29,6 +29,8 @@ class Contenido:
         genero=str(input("Ingrese genero:"))
         popularidad=int(input("Ingrese Popularidad:"))
         duracion=int(input("Ingrese Duracion:"))
+        arbol1.agregar_nodocontenidoa(nombre,popularidad)
+        
 
         #episodios=(input("Ingrese nombre de Serie")) #LISTAS DE TEMP, CON CAPS [] 
         
