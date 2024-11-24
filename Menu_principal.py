@@ -165,6 +165,9 @@ def pelispref(self,contenido):
 
     for peliculas in lista:
         print ("\nOpcion:",peliculas,"\n")
+def MostrarMasPopulares(self,lista):
+     for contenido in arbol1.populares:
+         print(contenido.nombre)
 
 
 plataforma_general=Plataforma.Plataforma("Disney Plus")
