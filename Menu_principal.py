@@ -67,7 +67,7 @@ def menu_principal(validacion):
         print("1-Menu Admin")
         print("2-Buscar Peliculas")
         print("3-Buscar Series")
-        print("4-Buscar Series")
+        print("4-Buscar contenido mas popular")
         print("5-Buscar Series")
         print("6-Salir\n")
     
