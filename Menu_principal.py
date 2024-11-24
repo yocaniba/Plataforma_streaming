@@ -87,7 +87,8 @@ def menu_principal(validacion):
 
         elif seleccion == 3:
 
-            pelispref()
+           def MostrarMasPopulares()
+            pass
 
         elif seleccion == 4:
 
