@@ -91,7 +91,7 @@ def menu_principal(validacion):
 
         elif seleccion == 4:
 
-            pelispref()
+            contenido.MostrarMasPppular()
 
         elif seleccion == 5:
 
