@@ -19,7 +19,7 @@ class Contenido:
         genero=str(input("Ingrese genero:")) 
         popularidad=int(input("Ingrese Popularidad:")) 
         duracion=int(input("Ingrese Duracion:")) 
-
+        arbol1.agregar_nodocontenido(nombre,popularidad)
         npelicula=Peliculas(nombre,genero,popularidad,duracion)
         self.peliculas.append(npelicula)
 
