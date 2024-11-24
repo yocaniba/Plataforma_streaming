@@ -52,3 +52,6 @@ class Contenido:
             return [pelicula_actual.nombre] + self.busqueda_recursiva(preferencias, lista[1:])
         else:
             return self.busqueda_recursiva(preferencias, lista[1:])
+
+
+# necesito meter esto en el menu que quieran
